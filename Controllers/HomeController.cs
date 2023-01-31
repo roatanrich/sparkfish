@@ -35,6 +35,7 @@ namespace WebApplication1.Controllers
         [HttpGet]
         public IEnumerable<RandomNumber> Get()
         {
+            return null;
         }
     }
 }
