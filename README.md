@@ -9,19 +9,29 @@ Load the project into visual studio, right click on project within the Solution 
 
 # Interview Questions
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 1. What are examples of the types of projects you have deployed to Azure? 
-* An Azure function written in Java deployed via GitHub action
-* An Azure web app written in .NET Core deployed via Octopus, then manually hot swapped via slots
+```diff
++ An Azure function written in Java deployed via GitHub action
++ An Azure web app written in .NET Core deployed via Octopus, then manually hot swapped via slots
+```
 
 2. How do you classify your senior-ness as a developer? What are your development strengths? 
 * I have many years writing code in the big two languages; C# and Java. I have held architect positions in both .NET and Java environments. When I approach a task, I don't just see the code, I mentally view how this piece of code fits in to the big picture and how this code can be tested.
 
 3. What are your top 1-2 favorite editor(s)? 
-* Eclipse (Java) Visual Code (Node/Typescript, C#)
+* Eclipse (Java) 
+* Visual Code (Node/Typescript, C#)
 
 4. Have you ever done a pull request? 
-* I have done thousands of pull requests
+* I have done hundreds of pull requests
 
 5. Have you ever had a chance to use TDD? Have you found it to be helpful? If so, when does it work best for you? 
 * I am a BDD Evangelist. As you might know, BDD is an evolution of TDD. One of the first things I ask when new code is brought in or discussed during a standup is "How will you test that?" I noticed in your exercise you referenced BDD with your Given/When/Then
