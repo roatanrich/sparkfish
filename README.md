@@ -1,6 +1,5 @@
 # Sparkfish Exercise
 
-the following project contains a 
 
 ## Running the test
 
@@ -82,7 +81,7 @@ Run Tests - Test runner action
 + I am familiar with the basics of SQL Statements in addition to JOINs, inner and outer, these would be on the forefront of my mind. Anything more complex than that I would use ChatGPT or Google to help or if there is a DBA, I tend to keep things in a group as tribal knowledge can be key at times
 ```
 
-13. Do you happen to know what TypeScript is and why it’s gotten popular? How does it differ from JS?
+13. Do you happen to know what TypeScript is and why itâ€™s gotten popular? How does it differ from JS?
 ```diff
 + About 4 years ago I was getting bored with programming but luckily node.js came out and Typescript, once I learned those two items, programming was fun again. So, yes I am a huge fan of Typescript mainly due to its strongly typed capabilities
  ```
