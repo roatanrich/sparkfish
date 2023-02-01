@@ -24,11 +24,15 @@ Load the project into visual studio, right click on project within the Solution 
 ```
 
 2. How do you classify your senior-ness as a developer? What are your development strengths? 
-* I have many years writing code in the big two languages; C# and Java. I have held architect positions in both .NET and Java environments. When I approach a task, I don't just see the code, I mentally view how this piece of code fits in to the big picture and how this code can be tested.
+```diff
++ I have many years writing code in the big two languages; C# and Java. I have held architect positions in both .NET and Java environments. When I approach a task, I don't just see the code, I mentally view how this piece of code fits in to the big picture and how this code can be tested.
+```
 
 3. What are your top 1-2 favorite editor(s)? 
-* Eclipse (Java) 
-* Visual Code (Node/Typescript, C#)
+```diff
++ Eclipse (Java) 
++ Visual Code (Node/Typescript, C#)
+```
 
 4. Have you ever done a pull request? 
 * I have done hundreds of pull requests
