@@ -6,6 +6,11 @@ the following project contains a
 
 Load the project into visual studio, right click on project within the Solution Explorer and select Run Tests
 
+az ad sp create-for-rbac `
+         --name "rh-sparkfish-api" --role contributor `
+         --scopes /subscriptions/d329ea58-314e-4cd4-a9c2-d1b38033fdfa/resourceGroups/rgSparkfish `
+         --sdk-auth
+
 
 # Interview Questions
 

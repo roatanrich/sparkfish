@@ -9,6 +9,7 @@
     <None Include=".github\workflows\azure-webapps-dotnet-core.yml" />
     <None Include=".github\workflows\codeql.yml" />
     <None Include=".github\workflows\dotnet.yml" />
+    <None Include=".github\workflows\azure-login.yml" />
   </ItemGroup>
 
   <ItemGroup>
