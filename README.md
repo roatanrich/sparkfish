@@ -1,5 +1,6 @@
 # Sparkfish Exercise
 
+[![CodeQL](https://github.com/roatanrich/sparkfish/actions/workflows/codeql.yml/badge.svg)](https://github.com/roatanrich/sparkfish/actions/workflows/codeql.yml)
 
 ## Running the test
 
